@@ -1,8 +1,6 @@
-```
-# Real-Time Flood Monitoring Data Pipeline
-```
+# End-to-End Edge AI Pipeline for Flood Monitoring
 
-## `## Overview` 
+## Overview
 
 ```
 This project implements a multi-threaded real-time data engineering pipeline for
